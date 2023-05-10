@@ -1,4 +1,4 @@
-package praktikum;
+package cod;
 
 import java.util.List;
 

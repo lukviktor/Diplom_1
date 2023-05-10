@@ -1,4 +1,4 @@
-package praktikum;
+package cod;
 
 /**
  * Перечисление с типами ингредиентов.
